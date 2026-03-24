@@ -1,0 +1,43 @@
+names:
+- Amethyst brown dove
+- Asian Glossy Starling
+- Blue-capped Kingfisher
+- Blue-crowned Racquet-tail
+- Blue-naped Parrot
+- Brown Shrike
+- Celestial Monarch
+- Chestnut Munia
+- Coleto
+- Eurasian Tree Sparrow
+- Garden Sunbird
+- Golden-bellied Gerygone
+- Green imperial pigeon
+- Guaiabero
+- Large-billed crow
+- Mindanao Boobook
+- Mindanao Heleia
+- Mindanao Scops-Owl
+- Philippine Bulbul
+- Philippine Coucal
+- Philippine Eagle
+- Philippine Hanging-Parrot
+- Philippine Pied-Fantail
+- Philippine Serpent Eagle
+- Philippine Trogon
+- Philippine cuckoo-dove
+- Ridgetop Swiflet
+- Rock Pigeon
+- Rufous Hornbill
+- Striated Grass Warbler
+- Striated Wren
+- White-eared Brown Dove
+- White-throated Kingfisher
+- Yellow-vented Bulbul
+- Yellow-wattled Bulbul
+- Zebra Dove
+- red-keeled flower pecker
+nc: 37
+path: C:\Users\Christian\AvianTech\data\datasets
+test: test/images
+train: train/images
+val: val/images
